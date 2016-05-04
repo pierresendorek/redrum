@@ -1,4 +1,4 @@
-# rebeat
+# redrum
 
 Converts the input sound in.wav to the output sound out.wav.
 
